@@ -1,0 +1,6 @@
+
+            main : function void () {
+                false1 : integer = arr[1,2];
+                a = a[2];
+                }
+            

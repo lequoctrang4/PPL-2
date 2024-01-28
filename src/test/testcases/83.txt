@@ -1,0 +1,5 @@
+
+            main:function void(){
+do {{i = 1; 
+ i = 2;}}while(a == 2);}
+            

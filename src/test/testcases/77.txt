@@ -1,0 +1,6 @@
+
+            main:function void(){
+                a = 1;
+                a = true;
+            }
+            
